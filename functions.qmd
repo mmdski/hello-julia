@@ -1,0 +1,12 @@
+---
+title: "Functions"
+editor:
+    render-on-save: true
+engine: julia
+---
+
+```{julia}
+function f(x, y)
+    x + y
+end
+```
